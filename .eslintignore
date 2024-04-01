@@ -1,0 +1,7 @@
+build/*.js
+src
+public
+dist
+view
+mock
+vue.config.js
